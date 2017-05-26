@@ -1,0 +1,27 @@
+
+.container {width:1200px;
+      margin:0 auto;
+      padding:10px 25px;
+      border:1px solid #ccc;
+      background: turquoise; 
+}
+h1 {
+	color: purple;
+	font-family: 'Barrio', cursive;
+	text-align: center;
+	font-size: 80px;
+}
+h2 {
+	text-align: center;
+}
+.profile_pic {
+	max-width: 98%;
+	padding: 1%;
+	background: black;
+	}
+.img-maintain-aspect {
+    height: auto; 
+    width: auto; 
+    max-width: 300px; 
+    max-height: 300px;
+}
